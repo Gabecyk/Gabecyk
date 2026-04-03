@@ -19,7 +19,7 @@
 <table>
   <tr>
     <td>
-     <img src="https://github-readme-stats.vercel.app/api?username=Gabecyk&show_icons=true&bg_color=000&border_color=30A3DC&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&cache_seconds=1800" alt="GitHub Stats" height="200">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabecyk&show_icons=true&bg_color=000&border_color=30A3DC&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats" height="200">
     </td>
     <td style="padding-left: 20px;">
       <img src="https://github.com/user-attachments/assets/566b02a5-b3fe-466e-8861-111fa87c86a1" alt="Desenho" height="200">
@@ -31,11 +31,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabecyk&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&cache_seconds=1800" alt="Top Langs" height="200">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gabecyk&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Top Langs" height="200">
     </td>
     <td style="padding-left: 20px;">
       <img src="https://github.com/user-attachments/assets/d0e0c2f6-3cd2-48b9-a78c-5303651368ba" alt="Desenho" height="200">
     </td>
   </tr>
 </table>
-
