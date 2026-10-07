@@ -15,11 +15,11 @@
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
-## GitHub Stats
+## Linguagens mais usadas
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabecyk&show_icons=true&bg_color=000&border_color=30A3DC&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats" height="200">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabecyk&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Top Langs" height="200">
     </td>
     <td style="padding-left: 20px;">
       <img src="https://github.com/user-attachments/assets/566b02a5-b3fe-466e-8861-111fa87c86a1" alt="Desenho" height="200">
@@ -27,11 +27,11 @@
   </tr>
 </table>
 
-## Linguagens mais usadas
+## GitHub Stats
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gabecyk&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Top Langs" height="200">
+      <img src="https://github-readme-stats.vercel.app/api?username=Gabecyk&show_icons=true&bg_color=000&border_color=30A3DC&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats" height="200">
     </td>
     <td style="padding-left: 20px;">
       <img src="https://github.com/user-attachments/assets/d0e0c2f6-3cd2-48b9-a78c-5303651368ba" alt="Desenho" height="200">
